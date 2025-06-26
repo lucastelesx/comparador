@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
+  "exclude": [
+    "./src/components/HelloWorld.vue.bkp",
+    "./src/components/TheWelcome.vue.bkp",
+    "./src/components/WelcomeItem.vue.bkp",
+  ]
+}
